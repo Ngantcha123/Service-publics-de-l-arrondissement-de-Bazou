@@ -1,0 +1,1 @@
+var json_Mbatchoupalace_5 = {"type":"FeatureCollection","name":"Mbatchoupalace_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"LONGITUDE":"663039","LATITUDE":"559261","SERVICES P":"Mbatchou palace","QUARTIER":"MARCH�"},"geometry":{"type":"Point","coordinates":[10.470719800134779,5.058008592850213]}}]}

@@ -1,0 +1,1 @@
+var json_Sousprefecture_2 = {"type":"FeatureCollection","name":"Sousprefecture_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"LONGITUDE":"662962","LATITUDE":"559056","SERVICES P":"Sous- prefecture","QUARTIER":"TERGAL"},"geometry":{"type":"Point","coordinates":[10.470021181537639,5.056156228561446]}}]}

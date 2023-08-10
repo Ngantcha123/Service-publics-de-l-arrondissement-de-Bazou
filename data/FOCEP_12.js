@@ -1,0 +1,1 @@
+var json_FOCEP_12 = {"type":"FeatureCollection","name":"FOCEP_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"LONGITUDE":"662962","LATITUDE":"559328","SERVICES P":"FOCEP","QUARTIER":"MARCH�"},"geometry":{"type":"Point","coordinates":[10.470026730971433,5.058616090635297]}}]}

@@ -1,0 +1,1 @@
+var json_Centredesoin_21 = {"type":"FeatureCollection","name":"Centredesoin_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"LONGITUDE":"662881","LATITUDE":"559368","SERVICES P":"Centre de soin","QUARTIER":"MARCH�"},"geometry":{"type":"Point","coordinates":[10.469297034984594,5.058979492317434]}}]}
